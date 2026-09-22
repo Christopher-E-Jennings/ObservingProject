@@ -1,1 +1,1 @@
-# ObservingProject
+# ObservingProject - Christopher Jennings
